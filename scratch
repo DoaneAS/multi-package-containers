@@ -1,0 +1,3 @@
+docker pull biocontainers/biocontainers
+docker pull quay.io/biocontainers/pysam
+docker pull quay.io/biocontainers/biopython
